@@ -107,7 +107,7 @@ const Level5 = () => {
   };
 
   const handleConfirm = () => {
-    if (encodedSenha === "A porta se abre") {
+    if (encodedSenha === "Abra esta porta") {
       setAlert(null);
       alert("Parabens! Você conseguiu!");
     } else {
