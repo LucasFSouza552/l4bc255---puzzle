@@ -143,7 +143,7 @@ const Level2 = ({ onLevelChange }) => {
           📄 Papel amassado
           {clues.papel && (
             <Paragraph>
-              Escuridão não é o pior dos males. Há algo nos observando por trás dela.
+              Escuridão não é o pior dos males. há algo nos observando por trás dela.
             </Paragraph>
           )}
         </Clickable>
@@ -152,7 +152,7 @@ const Level2 = ({ onLevelChange }) => {
           🧱 Parede rachada
           {clues.parede && (
             <Paragraph>
-              Luz alguma penetra por aqui. Nem mesmo o tempo parece se mover neste lugar.
+              Luz alguma penetra por aqui. nem mesmo o tempo parece se mover neste lugar.
             </Paragraph>
           )}
         </Clickable>
@@ -161,7 +161,7 @@ const Level2 = ({ onLevelChange }) => {
           📦 Caixa empilhada
           {clues.caixa && (
             <Paragraph>
-              Ele está observando. Sempre esteve.
+              Ele está observando. sempre esteve.
             </Paragraph>
           )}
         </Clickable>
